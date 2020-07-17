@@ -1,0 +1,10 @@
+Package: us.kid1car.debossedxiii
+Name: deBOSSed xiii
+Version: 1.0
+Depends: firmware (>= 10.0)
+Section: Themes
+Architecture: iphoneos-arm
+Author: kid1carus
+Maintainer: kid1carus.1mages@gmail.com
+Description: Icon theme for your AppleTV 4K of embossed colorful icons. Compatible with iOS10 and up.
+Icon: file:///Library/Themes/deBOSSed xiii.theme/Icon.png
